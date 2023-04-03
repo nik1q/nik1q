@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nik1q 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and Git
+- 🌱 I’m currently learning Python, Java, Kotlin and Git
 - 📫 You can contact me on [Telegram](https://telegram.org/): [@nik1q](https://t.me/nik1q) 
 
 <!--- 💞️ I’m looking to collaborate on --->
