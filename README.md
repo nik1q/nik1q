@@ -1,6 +1,6 @@
 👋 Hi, I’m @nik1q
 ======================
-eg: I've been learning to code, after switching careers.
+I've been learning to code, after switching careers.
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, Java, Kotlin and Git
