@@ -23,14 +23,6 @@ I've been learning to code, after switching careers.
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="36" height="36"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/></a> 
 </p>
-
-### Get in Touch
-
-<p align="left">
-  I'm always open to connecting with other developers or exploring new opportunities.
-</p>
-
-📝 **[Send me a private message via my contact form](https://tally.so/r/mY7bLv)**
    
 ### Socials
 
